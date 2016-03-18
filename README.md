@@ -2,7 +2,9 @@
 
 ## Deadfish implementation in Julia
 
-Run a fully compliant version with infinite input/output loop, using
+This is the deadfish implementation I uploaded on http://esolangs.org/wiki/Deadfish#Julia
+
+Run a fully compliant version (including the faulty overflow treatment) with infinite input/output loop, using
 
 `deadfish()` or `deadfish(0)`
 
