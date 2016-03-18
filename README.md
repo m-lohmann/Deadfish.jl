@@ -25,7 +25,9 @@ Note that the program ends automatically if the complete string is read.
 Example execution to display “Hello World” (or rather the ASCII values of the string):
 
 ```
-julia> deadfish("iisiiiisiiiiiiiioiiiiiiiiiiiiiiiiiiiiiiiiiiiiioiiiiiiiooiiiodddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddodddddddddddddddddddddsddoddddddddoiiioddddddoddddddddo")
+julia> deadfish("iisiiiisiiiiiiiioiiiiiiiiiiiiiiiiiiiiiiiiiiiiioiiiiiiiooiiiodddddddddd
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddoddddddddddddddddd
+ddddsddoddddddddoiiioddddddoddddddddo")
 >> i
 >> i
 >> s
